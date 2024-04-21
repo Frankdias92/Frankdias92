@@ -1,13 +1,13 @@
 
-<img align="center" width="auto" src="../github/IMG_Git_README.png">
+<img align="center" width="auto" src="./github/IMG_Git_README.png">
 
 #
 
-<img align="center" width="auto" src="../github/Frame6.png">
+<img align="center" width="auto" src="./github/Frame6.png">
 
 #
 
-<img align="center" width="auto" src="../github/favorites.png">
+<img align="center" width="auto" src="./github/favorites.png">
 
 #
 
@@ -25,7 +25,7 @@
 
 <div >
 
-<code><a href="https://www.linkedin.com/in/franklinmacedodias/"><img width="50" src="../github/Lkdin.png" alt="LinkedIn"></a>_Let's talk_***...***</code>
+<code><a href="https://www.linkedin.com/in/franklinmacedodias/"><img width="50" src="./github/Lkdin.png" alt="LinkedIn"></a>_Let's talk_***...***</code>
 </div>
 
 #
@@ -34,7 +34,7 @@
 
   <br />
 
-<img height="auto" src="../github/stack.png" />
+<img height="auto" src="./github/stack.png" />
 
 </details>
 
