@@ -49,7 +49,8 @@
   <summary><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" /> Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Frankdias92&hide_border=true" />
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Frankdias92&background=EB545400&border=DDDDDD00&stroke=DDDDDD&dates=DDDDDD&currStreakNum=EEEEEE&sideLabels=AAAAAA&currStreakLabel=FFB02E&sideNums=DDDDDD)](https://git.io/streak-stats)
 </details>
 
 
